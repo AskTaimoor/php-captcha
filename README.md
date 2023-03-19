@@ -1,2 +1,2 @@
 # php-captcha
-A simple script to show captcha, written in PHP
+A simple PHP script to show captcha image.
